@@ -1,4 +1,4 @@
-# README.txt
+# README
 
 The goal of the present simulation is to implement
 a model published by Epstein & Marder (1990) and
